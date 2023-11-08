@@ -1,6 +1,6 @@
 # frame-structure-of-NR.md
 
-!()[![Screenshot 2023-11-08 160334](https://github.com/Riyatomar14/frame-structure-of-NR.md/assets/143107173/b7bcc1d9-778f-47ed-adf3-8811339a3ed8)]
+![Screenshot 2023-11-08 160334](https://github.com/Riyatomar14/frame-structure-of-NR.md/assets/143107173/b7bcc1d9-778f-47ed-adf3-8811339a3ed8)]
 
 1.**Radio frames**-radio frames used in transferring the data (uplink/downlink) in the air. Its duration is 10 milliseconds.
 
